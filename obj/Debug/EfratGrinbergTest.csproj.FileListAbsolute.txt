@@ -1,0 +1,15 @@
+C:\Users\t570\Desktop\EfratGrinbergTest\obj\Debug\EfratGrinbergTest.csproj.AssemblyReference.cache
+C:\Users\t570\Desktop\EfratGrinbergTest\obj\Debug\EfratGrinbergTest.csproj.CoreCompileInputs.cache
+C:\Users\t570\Desktop\EfratGrinbergTest\bin\Debug\EfratGrinbergTest.exe.config
+C:\Users\t570\Desktop\EfratGrinbergTest\bin\Debug\EfratGrinbergTest.exe
+C:\Users\t570\Desktop\EfratGrinbergTest\bin\Debug\EfratGrinbergTest.pdb
+C:\Users\t570\Desktop\EfratGrinbergTest\obj\Debug\EfratGrinbergTest.exe
+C:\Users\t570\Desktop\EfratGrinbergTest\obj\Debug\EfratGrinbergTest.pdb
+C:\Users\t570\Downloads\eladSytemsTest\bin\Debug\EfratGrinbergTest.exe.config
+C:\Users\t570\Downloads\eladSytemsTest\bin\Debug\EfratGrinbergTest.exe
+C:\Users\t570\Downloads\eladSytemsTest\bin\Debug\EfratGrinbergTest.pdb
+C:\Users\t570\Downloads\eladSytemsTest\obj\Debug\EfratGrinbergTest.csproj.AssemblyReference.cache
+C:\Users\t570\Downloads\eladSytemsTest\obj\Debug\EfratGrinbergTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\t570\Downloads\eladSytemsTest\obj\Debug\EfratGrinbergTest.csproj.CoreCompileInputs.cache
+C:\Users\t570\Downloads\eladSytemsTest\obj\Debug\EfratGrinbergTest.exe
+C:\Users\t570\Downloads\eladSytemsTest\obj\Debug\EfratGrinbergTest.pdb
